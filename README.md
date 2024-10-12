@@ -3,7 +3,8 @@
 
 # Usage
 ```
-tlc
+fortune | cowsay | tlc
+cat <x> <y> <z> | tlc
 ```
 
 # Building
