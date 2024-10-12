@@ -1,5 +1,5 @@
 # tlc 
-**t**iny **l**ol**c**at is a program to display text in rainbow colors
+**t**iny **l**ol**c**at is a fun program to display text in rainbow colors
 
 # Usage
 ```
