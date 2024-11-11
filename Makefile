@@ -6,7 +6,7 @@ TARGET = tlc
 PREFIX ?= /usr/local
 BINDIR = $(PREFIX)/bin
 
-CFLAGS = -O3 -march=native -mtune=native -pipe -s -std=c99 -flto -pedantic -Wall -lm
+CFLAGS = -Os -march=native -mtune=native -pipe -s -std=c99 -flto -pedantic -Wall -lm -D_DEFAULT_SOURCE
 
 SRC = tlc.c
 
